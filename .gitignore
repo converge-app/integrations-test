@@ -219,4 +219,4 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
-requirements-specification.pdf
+requirements-specification.pdf__latexindent_temp.tex
